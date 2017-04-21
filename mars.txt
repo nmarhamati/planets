@@ -4,4 +4,9 @@ But the Mummy will appreciate the lack of humidity.
 neda I have changed it!
 
 thanks for the change Mina!
+<<<<<<< HEAD
 This drives me crazy!
+=======
+
+this is the second change!
+>>>>>>> 9432a7b993073576ed6c69db1d31b1c86ccc9360
